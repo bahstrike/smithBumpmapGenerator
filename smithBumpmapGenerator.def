@@ -1,0 +1,7 @@
+
+LIBRARY "smithBumpmapGenerator"
+EXPORTS
+	SmithQueryPlugin
+	InitializePlugin
+	ShutdownPlugin
+	OnGenerateNormalMap
