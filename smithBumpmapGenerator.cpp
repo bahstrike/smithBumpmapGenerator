@@ -50,7 +50,7 @@ extern "C"
 
 
 	//-----------------------------------------------------------------------------------------------------------------------------------------------------
-	// start of code from:   https://github.com/deepmind/lab/blob/cf2f5250e1a00ecce37b3480df28c3a5dcd08b57/engine/code/renderergl2/tr_image.c#L428
+	// start of code from:   https://github.com/ioquake/ioq3/blob/84daa2826798a84627f7f93f721182028ed007e3/code/renderergl2/tr_image.c#L427
 	// modifications are notated with  Strike:
 	//-----------------------------------------------------------------------------------------------------------------------------------------------------
 
