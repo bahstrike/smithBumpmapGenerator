@@ -11,7 +11,7 @@ extern "C"
 		strcpy(p.name, "Bumpmap Generator");
 		strcpy(p.author, "bahstrike");
 		strcpy(p.authorEmail, "strike@bah.wtf");
-		strcpy(p.attributions, "DeepMind&www.deepmind.com|Id Software, Inc.&www.idsoftware.com|Google, Inc.&www.google.com");
+		strcpy(p.attributions, "The ioquake Group&www.ioquake.org|Id Software, Inc.&www.idsoftware.com");
 		strcpy(p.desc, "Generates normal maps from RGB textures.");
 		strcpy(p.homepageURL, "https://github.com/bahstrike/smithBumpmapGenerator");
 		p.smithRequiredVer = SMITHVERSION;
